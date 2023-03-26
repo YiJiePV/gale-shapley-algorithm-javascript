@@ -1,0 +1,50 @@
+DO NOT RUN THIS FILE IN THE PROGRAM.
+
+Note: to run this, node.js is required, as well as some node modules for fs and readline
+
+classexample.txt expected pairings:
+Victor and Amy
+Wyatt and Clare
+Xavier and Bertha
+Yancey and Erika
+Zeus and Diane
+
+stable.txt expected pairings:
+Joe and Mary-Beth
+Kevin and Susan
+Arnold and Yvette
+Herbert and Mary
+David and Farah
+Brett and Angie
+Arun and Jane
+Andres and Debbie
+John and Eleanor
+Ted and Irene
+Craig and Crystal
+Matthew and Sylvia
+Seth and Robyn
+Adrian and Nichole
+William and Rachana
+Martin and Helena
+Brian and Althea
+Edward and Moon-Star
+Kirk and Maria
+Norman and Tessa
+Michael and Mary-Anne
+Tom and Marla
+Patrick and Jennifer
+Mark and Stephanie
+Gil and Caroline
+Jeff and Maude
+Rich and Lucy
+Curtis and Anna
+Eric and Tara
+Nick and Jean
+Ramon and Kim
+Robert and Wendy
+Charles and Trudy 
+Steve and Elizabeth
+Carlos and Julie
+The rest are unpaired
+
+empty.txt, womenonly.txt, and menonly.txt produce nothing
